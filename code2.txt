@@ -1,0 +1,2 @@
+this is my code2 file 
+and i am learning git and github with my old notes
